@@ -3,6 +3,7 @@ import React from "react";
 import { featuredProducts } from "@/data";
 
 function Featured() {
+    
     return (
         <div className="w-screen overflow-x-scroll text-red-500 bg-white">
             {/* wrapper */}
