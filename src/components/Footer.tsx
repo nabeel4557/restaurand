@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer() {
     return (
-        <div className="flex items-center justify-between text-red-500 lg:p-20 xl:p-40">
+        <div className="flex items-center justify-between text-red-500 lg:px-20 xl:px-40">
             <Link href="/" className="font-bold text-xl">
                 MASSIMO
             </Link>
